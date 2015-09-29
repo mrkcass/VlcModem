@@ -1,0 +1,9 @@
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\bin\Debug\VlcModem.exe.config
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\bin\Debug\VlcModem.exe
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\bin\Debug\VlcModem.pdb
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.csprojResolveAssemblyReference.cache
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.Form1.resources
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.Properties.Resources.resources
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.csproj.GenerateResource.Cache
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.exe
+C:\Users\mcass\Documents\Projects\VlcModem\VlcModem\obj\Debug\VlcModem.pdb

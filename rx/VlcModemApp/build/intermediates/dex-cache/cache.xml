@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\pre-dexed\debug\classes-e553cc1ff87d5d5c3161b16c3eadaf61f127249c.jar" />
+    </item>
+    <item
+        jar="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-61158726864c98ec6eaba9ee9ab30d7fa9d7ece0.jar" />
+    </item>
+    <item
+        jar="C:\Users\mcass\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-35d6712442d2467f555b5fedafdca92c2f247803.jar" />
+    </item>
+    <item
+        jar="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\pre-dexed\debug\classes-98acb8edda505749f923b7cf31f09464d9812132.jar" />
+    </item>
+    <item
+        jar="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\mcass\Documents\Projects\VlcModemApp\app\build\intermediates\pre-dexed\debug\classes-fe38ee00b76499e3e02460bc8a268663fb1aad8f.jar" />
+    </item>
+
+</items>
